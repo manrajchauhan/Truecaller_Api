@@ -1,0 +1,207 @@
+[
+  {
+    "id": "lrhdgcplwejud7f8ub",
+    "phoneNumber": "917208708137",
+    "name": "Odk Co.",
+    "alternateName": "no alternate name",
+    "addresses": [
+      {
+        "address": "ulwe navi mumbai, 410206, IN",
+        "street": "ulwe navi mumbai",
+        "zipCode": "410206",
+        "city": "Mumbai",
+        "countryCode": "IN",
+        "timeZone": "+05:30",
+        "type": "address"
+      }
+    ],
+    "emailId": "odkcopis@gmail.com",
+    "countryDetails": {
+      "name": "India",
+      "native": "भारत",
+      "phone": [
+        91
+      ],
+      "continent": "AS",
+      "capital": "New Delhi",
+      "currency": [
+        "INR"
+      ],
+      "languages": [
+        "hi",
+        "en"
+      ],
+      "flag": "🇮🇳",
+      "flagURL": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg"
+    }
+  },
+  {
+    "id": "lrhe4pnkytj6c2vpr6e",
+    "phoneNumber": "919321609276",
+    "name": "Tabassum Parween",
+    "alternateName": "no alternate name",
+    "addresses": [
+      {
+        "address": "IN",
+        "city": "Mumbai",
+        "countryCode": "IN",
+        "timeZone": "+05:30",
+        "type": "address"
+      }
+    ],
+    "emailId": "unknown email",
+    "countryDetails": {
+      "name": "India",
+      "native": "भारत",
+      "phone": [
+        91
+      ],
+      "continent": "AS",
+      "capital": "New Delhi",
+      "currency": [
+        "INR"
+      ],
+      "languages": [
+        "hi",
+        "en"
+      ],
+      "flag": "🇮🇳",
+      "flagURL": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg"
+    }
+  },
+  {
+    "id": "lrhe60nnn85uznwuk8",
+    "phoneNumber": "918605963157",
+    "name": "Savita Kadam",
+    "alternateName": "no alternate name",
+    "addresses": [
+      {
+        "address": "IN",
+        "city": "Maharashtra",
+        "countryCode": "IN",
+        "timeZone": "+05:30",
+        "type": "address"
+      }
+    ],
+    "emailId": "savitaa6442@gmail.com",
+    "countryDetails": {
+      "name": "India",
+      "native": "भारत",
+      "phone": [
+        91
+      ],
+      "continent": "AS",
+      "capital": "New Delhi",
+      "currency": [
+        "INR"
+      ],
+      "languages": [
+        "hi",
+        "en"
+      ],
+      "flag": "🇮🇳",
+      "flagURL": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg"
+    }
+  },
+  {
+    "id": "lrhe6kizqqx0ia7d71s",
+    "phoneNumber": "918451992191",
+    "name": "Guneshwari Ghatge",
+    "alternateName": "no alternate name",
+    "addresses": [
+      {
+        "city": "Mumbai",
+        "countryCode": "IN",
+        "timeZone": "+05:30",
+        "type": "address"
+      }
+    ],
+    "emailId": "unknown email",
+    "countryDetails": {
+      "name": "India",
+      "native": "भारत",
+      "phone": [
+        91
+      ],
+      "continent": "AS",
+      "capital": "New Delhi",
+      "currency": [
+        "INR"
+      ],
+      "languages": [
+        "hi",
+        "en"
+      ],
+      "flag": "🇮🇳",
+      "flagURL": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg"
+    }
+  },
+  {
+    "id": "ls7axsw3s7s55is7rna",
+    "phoneNumber": "918381080112",
+    "name": "Vaibhav Patane",
+    "alternateName": "no alternate name",
+    "addresses": [
+      {
+        "address": "IN",
+        "city": "Maharashtra",
+        "countryCode": "IN",
+        "timeZone": "+05:30",
+        "type": "address"
+      }
+    ],
+    "emailId": "unknown email",
+    "countryDetails": {
+      "name": "India",
+      "native": "भारत",
+      "phone": [
+        91
+      ],
+      "continent": "AS",
+      "capital": "New Delhi",
+      "currency": [
+        "INR"
+      ],
+      "languages": [
+        "hi",
+        "en"
+      ],
+      "flag": "🇮🇳",
+      "flagURL": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg"
+    }
+  },
+  {
+    "id": "ls7b0xiaqcs34q7cpr",
+    "phoneNumber": "919892688134",
+    "name": "Shubham Gupta",
+    "alternateName": "no alternate name",
+    "addresses": [
+      {
+        "address": "IN",
+        "city": "Mumbai",
+        "countryCode": "IN",
+        "timeZone": "+05:30",
+        "type": "address"
+      }
+    ],
+    "emailId": "subhamgupta3113@gmail.com",
+    "countryDetails": {
+      "name": "India",
+      "native": "भारत",
+      "phone": [
+        91
+      ],
+      "continent": "AS",
+      "capital": "New Delhi",
+      "currency": [
+        "INR"
+      ],
+      "languages": [
+        "hi",
+        "en"
+      ],
+      "flag": "🇮🇳",
+      "flagURL": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg"
+    }
+  }
+]
