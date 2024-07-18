@@ -8,7 +8,7 @@ const port = 3000;
 
 app.use(express.static(path.join(__dirname, 'views')));
 
-// Expose an endpoint to serve the generatedData.json file
+
 app.get('/generatedData.json', (req, res) => {
   res.sendFile(path.join(__dirname, 'generatedData.json'));
 });
